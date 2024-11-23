@@ -15,7 +15,7 @@ export default function CallToAction() {
       </p>
 
       <Button variant="elevation">
-        <span className="mr-2">Shop Now</span> <ArrowRight width="13px" />
+        <span className="mr-2">Shop Now</span> <ArrowRight width="12px" />
       </Button>
     </CTABlock>
   );
